@@ -16,3 +16,9 @@ def median(a, b):
 
 def remainder(a, b):
 	retunr a//b
+
+def Abs(num):
+	if num>=0:
+		return num
+	else:
+		return -num
