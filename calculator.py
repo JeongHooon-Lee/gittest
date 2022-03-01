@@ -22,3 +22,7 @@ def Abs(num):
 		return num
 	else:
 		return -num
+
+def percent(a, b):
+	return (a/b)*100
+
