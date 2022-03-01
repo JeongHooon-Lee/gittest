@@ -8,5 +8,5 @@ def subtract(a, b):
 def multiply(a, c):
 	return a*c
 
-def divide(a, b):
+def divide_primium(a, b):
 	return a/b
