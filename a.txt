@@ -1,0 +1,2 @@
+this branch is auto tracked in command
+"git checkout serverfix"
